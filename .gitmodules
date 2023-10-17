@@ -1,0 +1,9 @@
+[submodule "Easy-Allocator"]
+	path = Easy-Allocator
+	url = https://github.com/EmanuelDicu/Easy-Allocator.git
+[submodule "Command-Interpreter"]
+	path = Command-Interpreter
+	url = https://github.com/EmanuelDicu/Command-Interpreter.git
+[submodule "Dyna-LLoad"]
+	path = Dyna-LLoad
+	url = https://github.com/EmanuelDicu/Dyna-LLoad.git
